@@ -1,1 +1,0 @@
-mapquest_api_key = "myR95OqV6HjqYry8y2sTu8cnpKpssOAa"
